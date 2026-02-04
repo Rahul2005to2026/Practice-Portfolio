@@ -17,3 +17,8 @@ A clean, responsive portfolio website built with HTML and CSS.
 - Font Awesome icons
 
 ## 📁 Project Structure
+portfolio/
+├── index.html # Main HTML file
+├── style.css # CSS styles
+├── server.py # Optional Python backend
+└── README.md # This file
